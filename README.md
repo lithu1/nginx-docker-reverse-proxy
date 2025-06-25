@@ -31,6 +31,8 @@ docker-compose up --build
 
 Both services have `/ping` endpoints used by Docker for health checking.
 
+![image](https://github.com/user-attachments/assets/5e908690-53a3-4309-8dbc-133b72d17b64)
+
 ## 📜 Logging
 
 
