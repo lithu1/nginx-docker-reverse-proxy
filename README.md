@@ -31,4 +31,5 @@ Both services have `/ping` endpoints used by Docker for health checking.
 
 ## 📜 Logging
 
-Nginx logs all requests with timestamp and path.
+
+![image](https://github.com/user-attachments/assets/03c6b4f7-82b0-4c3e-9b3a-c5f0b3df9753)
