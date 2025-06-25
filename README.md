@@ -22,8 +22,10 @@ docker-compose up --build
 
 ## 🌐 Access
 
-- http://localhost:8080/service1/hello
-- http://localhost:8080/service2/hello
+- http://3.95.38.228:8080/service1/hello
+- http://3.95.38.228:8080/service1/ping
+- http://3.95.38.228:8080/service2/hello
+- http://3.95.38.228:8080/service2/ping
 
 ## 🩺 Health Checks
 
